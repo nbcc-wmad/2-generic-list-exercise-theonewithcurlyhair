@@ -7,6 +7,8 @@ Code a form that allows Professor Carver to display a grade based on the number 
 <br />
 The grading scale is as follows
 <br />
+  
+  
 
 | Minimum Points | Maximum Points | Grade |
 |----------------|----------------|-------|
